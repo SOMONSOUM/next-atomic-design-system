@@ -12,7 +12,7 @@ export default function Home() {
             className="focus:border-blue-600 focus:outline-none"
           />
         </div>
-        <Button variant="outline" type="submit">
+        <Button variant="primary" type="submit">
           <PlusCircle className="mr-1" size={14} /> Submit
         </Button>
       </form>
